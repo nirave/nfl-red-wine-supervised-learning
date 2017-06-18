@@ -13,13 +13,13 @@ Below is the information needed to run.
 R, version 3.2.5
 
 with the following libraries:
-dplyr
-caret
-kernlab
-RWeka
-nnet
-C50
-class
+* dplyr
+* caret
+* kernlab
+* RWeka
+* nnet
+* C50
+* class
 
 # Obtaining data
 
@@ -31,7 +31,7 @@ However, to save time, those files are included in this tar file.
 
 # Running
 
-To run the script, set the current working director to the directoryo of main.R, and run main.R.
+To run the script, set the current working director to the directory of main.R, and run main.R.
 
 Note that the learning curves are commented out.  This is time consuming to produce
 
